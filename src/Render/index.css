@@ -1,0 +1,27 @@
+.msgContainer {
+    display: flex;
+    border: 2px solid black;
+    border-radius: 10px;
+    flex-direction: column;
+    background-color: #888;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  p {
+    color: black;
+  }
+  .x-button {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .button-Container {
+    margin: 7px;
+  }
+  .span {
+    color: black;
+    font-weight: bold;
+  }
+  .Dialog-btn-Container {
+    margin: 10px;
+  }
